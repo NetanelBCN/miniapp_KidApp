@@ -16,7 +16,8 @@ KidApp is a mobile application designed for kids, connected to the KinderKid app
 ## Introduction
 
 KidApp is developed to provide children with an engaging and secure platform to manage their daily tasks and view their personal information. The application ensures that children can stay connected with their parents through notifications and tasks assigned by their parents. It is designed with a user-friendly interface that is easy for kids to navigate. Parents manage the initial setup and input of all necessary information, ensuring that the child’s profile is accurate and up-to-date. KidApp helps in fostering a sense of responsibility in children by allowing them to manage their tasks efficiently.
-The application is being integrated to the server FamilyCare360 : https://github.com/NetanelBCN/FamilyCare360
+
+#### The application is being integrated to the server FamilyCare360 : https://github.com/NetanelBCN/FamilyCare360
 
 ## Features
 
